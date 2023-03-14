@@ -51,3 +51,5 @@ Both scanning options provide the Ninja Mode feature. This option allows scans t
 [J.Rosales](https://github.com/ic3man31/ic3man31)
 
 ## License
+
+[LICENSE](License)
