@@ -24,7 +24,7 @@ chmod +x e-scan.sh && ./e-scan.sh
 
 ## HowTo
 
-The main menù has 3 options:
+The main menù has 2 options:
 
 1. `1) Host Discovery` - Host Discovery/Network Scanning is the process of identifying active hosts on a target network with the goal of creating a detailed schematic of the network infrastructure. In Host Discovery there 5 type of scanning:
 	1. Ping Sweep
